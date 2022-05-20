@@ -1,0 +1,35 @@
+.cart-summery {
+  margin-top: 30px;
+}
+
+.cart-summery__total {
+  display: flex;
+  justify-content: space-between;
+}
+.cart-summery__btns {
+  height: 50px;
+  display: flex;
+  justify-content: space-between;
+  margin: 1rem auto;
+}
+
+.button-close {
+  width: 45%;
+  font-size: 1.6rem;
+  border-radius: 40px;
+}
+
+.button-checkout {
+  width: 45%;
+  font-size: 1.6rem;
+  background-color: #cd1818;
+  color: white;
+  border-radius: 40px;
+  cursor: pointer;
+}
+
+.button-close:hover {
+  background-color: #cd1818;
+  color: white;
+  cursor: pointer;
+}

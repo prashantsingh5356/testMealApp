@@ -1,0 +1,67 @@
+.form {
+  background-color: #15133c;
+  width: 40%;
+  margin: 0 auto;
+  line-height: 3rem;
+  padding: 1rem;
+  border-radius: 30px;
+}
+.meal-name {
+  font-size: 1.8rem;
+  font-style: italic;
+  color: white;
+}
+
+.meal-name__input {
+  width: 40%;
+  height: 30px;
+  margin-left: 10px;
+}
+
+.meal-description {
+  font-size: 1.8rem;
+  font-style: italic;
+  color: white;
+}
+
+.meal-description__input {
+  width: 40%;
+  height: 30px;
+  margin-left: 13px;
+}
+
+.meal-price {
+  font-size: 1.8rem;
+  font-style: italic;
+  color: white;
+}
+
+.meal-price__input {
+  width: 40%;
+  height: 30px;
+  margin-left: 90px;
+}
+
+.form-btn {
+  width: 60%;
+  height: 45px;
+  margin-left: 100px;
+  border-radius: 20px;
+  background-color: #b20600;
+  color: white;
+  font-size: 1.2rem;
+}
+
+.btn {
+  background-color: #16003b;
+  width: 400px;
+  height: 80px;
+  border-radius: 30px;
+  margin-left: 35%;
+  color: white;
+  font-size: 2rem;
+}
+.btn:hover {
+  background-color: #201e57;
+  border-color: black;
+}

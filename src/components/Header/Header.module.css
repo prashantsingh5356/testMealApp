@@ -1,0 +1,16 @@
+.header-container {
+  background-color: #00092c;
+  color: white;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+  width: 80%;
+  padding: 1.2rem;
+}

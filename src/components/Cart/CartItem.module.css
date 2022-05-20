@@ -1,0 +1,32 @@
+.cart-item {
+  padding: 1.2rem 1rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+.cart-item__name {
+  font-size: 1.4rem;
+  font-style: oblique;
+}
+
+.cart-item__value {
+  width: 40%;
+}
+.cart-item__value button {
+  width: 30px;
+  margin-left: 10px;
+}
+.value {
+  margin-left: 10px;
+}
+
+.cart-item__total {
+  font-size: 1.4rem;
+  font-style: oblique;
+}
+.divider {
+  width: 95%;
+  height: 1px;
+  background-color: black;
+  margin: 0 auto;
+}
